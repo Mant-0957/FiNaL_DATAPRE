@@ -66,37 +66,6 @@ FiNaL_DATAPRE/
 
 ---
 
-##  How to Run
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/Mant-0957/FiNaL_DATAPRE.git
-```
-
-2. Open the project folder
-
-```bash
-cd FiNaL_DATAPRE
-```
-
-3. Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-5. Open
-
-```
-FiNaL_DATAPRE.ipynb
-```
 
 ---
 
