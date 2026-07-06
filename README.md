@@ -103,6 +103,6 @@ GitHub: https://github.com/Mant-0957
 
 
 
-## 📄 License
+##  License
 
 This project is created for educational and learning purposes.
